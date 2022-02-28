@@ -1,0 +1,11 @@
+img {
+  width: 70%;
+  border-radius: 50%;
+}
+p {
+  text-align: center;
+}
+.pHead {
+  text-align: left;
+  padding-left: 10px;
+}
