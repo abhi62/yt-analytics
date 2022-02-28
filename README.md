@@ -7,4 +7,4 @@
 
 ## Tech stack used
 
-### React and Material UI
+### React, Material UI and recharts
