@@ -8,3 +8,5 @@
 ## Tech stack used
 
 ### React, Material UI and recharts
+
+#NOTE:- note responsive only mobile friendly
